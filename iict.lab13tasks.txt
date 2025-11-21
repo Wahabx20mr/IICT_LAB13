@@ -1,0 +1,231 @@
+									task 1
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Student Records</title>
+
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f7f7f7;
+            padding: 20px;
+        }
+
+        h1 {
+            text-align: center;
+            color: #333;
+        }
+
+        table {
+            width: 80%;
+            margin: auto;
+            border-collapse: collapse;
+            background: white;
+        }
+
+        th, td {
+            border: 1px solid #888;
+            padding: 10px;
+            text-align: center;
+        }
+
+        th {
+            background-color: #e0e0e0;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Student Information Table</h1>
+
+    <table>
+        <tr>
+            <th>Student ID</th>
+            <th>Name</th>
+            <th>Age</th>
+            <th>Gender</th>
+            <th>Marks</th>
+            <th>City</th>
+        </tr>
+
+        <tr>
+            <td>STD1</td>
+            <td>Ali</td>
+            <td>20</td>
+            <td>Male</td>
+            <td>88</td>
+            <td>Islamabad</td>
+        </tr>
+
+        <tr>
+            <td>STD2</td>
+            <td>Raza</td>
+            <td>22</td>
+            <td>Male</td>
+            <td>74</td>
+            <td>Lahore</td>
+        </tr>
+
+        <tr>
+            <td>STD3</td>
+            <td>Sara</td>
+            <td>19</td>
+            <td>Female</td>
+            <td>92</td>
+            <td>Karachi</td>
+        </tr>
+
+        <tr>
+            <td>STD4</td>
+            <td>Hamza</td>
+            <td>21</td>
+            <td>Male</td>
+            <td>81</td>
+            <td>Peshawar</td>
+        </tr>
+
+        <tr>
+            <td>STD5</td>
+            <td>Fatima</td>
+            <td>20</td>
+            <td>Female</td>
+            <td>95</td>
+            <td>Quetta</td>
+        </tr>
+    </table>
+
+</body>
+</html>
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+									task 2
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Student Records</title>
+
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f7f7f7;
+            padding: 20px;
+        }
+
+        h1 {
+            text-align: center;
+            color: #333;
+        }
+
+        table {
+            width: 80%;
+            margin: auto;
+            border-collapse: collapse;
+            background: white;
+        }
+
+        th, td {
+            border: 1px solid #888;
+            padding: 10px;
+            text-align: center;
+        }
+
+        th {
+            background-color: #e0e0e0;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Student Information Table</h1>
+
+    <table>
+        <tr>
+            <th style="border:1px solid black; padding:8px; background-color:lightgray;">Student ID</th>
+            <th style="border:1px solid black; padding:8px; background-color:lightgray;">Name</th>
+            <th style="border:1px solid black; padding:8px; background-color:lightgray;">Age</th>
+            <th style="border:1px solid black; padding:8px; background-color:lightgray;">Gender</th>
+            <th style="border:1px solid black; padding:8px; background-color:lightgray;">Marks</th>
+            <th style="border:1px solid black; padding:8px; background-color:lightgray;">City</th>
+        </tr>
+
+        <tr>
+            <td style="border:1px solid black; padding:8px; background-color:lightgray;">STD1</td>
+            <td style="border:1px solid black; padding:8px; background-color:lightgray;">Ali</td>
+            <td style="border:1px solid black; padding:8px; background-color:lightgray;">20</td>
+            <td style="border:1px solid black; padding:8px; background-color:lightgray;">Male</td>
+            <td style="border:1px solid black; padding:8px; background-color:lightgray;">88</td>
+            <td style="border:1px solid black; padding:8px; background-color:lightgray;">Islamabad</td>
+        </tr>
+
+        <tr>
+            <td style="border:1px solid black; padding:8px; background-color:lightgray;">STD2</td>
+            <td style="border:1px solid black; padding:8px; background-color:lightgray;">Raza</td>
+            <td style="border:1px solid black; padding:8px; background-color:lightgray;">22</td>
+            <td style="border:1px solid black; padding:8px; background-color:lightgray;">Male</td>
+            <td style="border:1px solid black; padding:8px; background-color:lightgray;">74</td>
+            <td style="border:1px solid black; padding:8px; background-color:lightgray;">Lahore</td>
+        </tr>
+
+        <tr>
+            <td style="border:1px solid black; padding:8px; background-color:lightgray;">STD3</td>
+            <td style="border:1px solid black; padding:8px; background-color:lightgray;">Sara</td>
+            <td style="border:1px solid black; padding:8px; background-color:lightgray;">19</td>
+            <td style="border:1px solid black; padding:8px; background-color:lightgray;">Female</td>
+            <td style="border:1px solid black; padding:8px; background-color:lightgray;">92</td>
+            <td style="border:1px solid black; padding:8px; background-color:lightgray;">Karachi</td>
+        </tr>
+
+        <tr>
+            <td style="border:1px solid black; padding:8px; background-color:lightgray;">STD4</td>
+            <td style="border:1px solid black; padding:8px; background-color:lightgray;">Hamza</td>
+            <td style="border:1px solid black; padding:8px; background-color:lightgray;">21</td>
+            <td style="border:1px solid black; padding:8px; background-color:lightgray;">Male</td>
+            <td style="border:1px solid black; padding:8px; background-color:lightgray;">81</td>
+            <td style="border:1px solid black; padding:8px; background-color:lightgray;">Peshawar</td>
+        </tr>
+
+        <tr>
+            <td style="border:1px solid black; padding:8px; background-color:lightgray;">STD5</td>
+            <td style="border:1px solid black; padding:8px; background-color:lightgray;">Fatima</td>
+            <td style="border:1px solid black; padding:8px; background-color:lightgray;">20</td>
+            <td style="border:1px solid black; padding:8px; background-color:lightgray;">Female</td>
+            <td style="border:1px solid black; padding:8px; background-color:lightgray;">95</td>
+            <td style="border:1px solid black; padding:8px; background-color:lightgray;">Quetta</td>
+        </tr>
+    </table>
+
+</body>
+</html>
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+									task 3
+
+
+
+<button onclick="showStudentInfo()">Show Student Info</button>
+<button onclick="showLabInfo()">Show Lab Info</button>
+<button onclick="showCustomAlert()">Custom Alert</button>
+
+<script>
+function showStudentInfo() {
+    console.log("Displaying student information...");
+    alert("This webpage displays student records in an HTML table.");
+}
+
+function showLabInfo() {
+    console.log("Displaying lab information...");
+    alert("Lab 13 covers HTML, CSS, and a basic introduction to JavaScript.");
+}
+
+function showCustomAlert() {
+    alert("hi! Ali");   
+}
+</script>
